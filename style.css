@@ -8,5 +8,18 @@
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: space-between;
+  align-items: center;
   background-color: #26a0f4;
+  width: 100%;
+  min-height: 5vh;
+}
+
+#h-icon{
+font-size: 130%;
+}
+
+.userplus {
+  font-size: 130%;
+  color: white;
+  text-decoration: none;
 }
