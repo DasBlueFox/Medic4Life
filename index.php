@@ -19,7 +19,7 @@
     <div class="title">
       <h1>Medic4Life</h1>
     </div>
-    <a class="userplus" href="#"><i class="fas fa-user-plus"></i></a>
+    <a class="userplus" href="users/user-add.php"><i class="fas fa-user-plus"></i></a>
   </div>
 </section>
 </body>
